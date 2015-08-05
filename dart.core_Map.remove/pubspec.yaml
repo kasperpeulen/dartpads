@@ -1,0 +1,5 @@
+name: dart.core_Map_Map.remove_'removeWhere'
+description: |
+  How to remove a key/value pair, satisfying some test, from a `Map`.
+  Similar as the `List.removeWhere` method.
+homepage: http://gist.github.com/kasperpeulen/3e64e4792c228993906f

@@ -1,0 +1,4 @@
+name: dart.html_Element.setInnerHtml
+description: |
+  Example of setInnerHtml configured so that all nodes are allowed.
+homepage: http://gist.github.com/kasperpeulen/87049e272fa234db06f2
